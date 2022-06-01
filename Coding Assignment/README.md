@@ -7,7 +7,7 @@ Firstly download  the [visual studio code](https://visualstudio.microsoft.com) f
 
 ### Code
 1. Created a small data structure that holds details - Name of the team, points they have earned and result of last 5 matches from below image that taken from TestVagrant Coding Assignment - Grads 2022.
-![Data extracted from this image only..](/img.jpg "img taken from TestVagrant Coding Assignment - Grads 2022.")
+![Data extracted from this image only..](ipl-coding-challenge-submission/Coding Assignment/img.jpg "img taken from TestVagrant Coding Assignment - Grads 2022.")
 ```var iplTeam={ 
 GT : {
 nameOfTheTeam : "Gujarat Titans",
